@@ -55,7 +55,7 @@ public class MainClass {
 		  }
 		  BlackJack_Test t = new BlackJack_Test();
 		  try {
-			  System.out.println("Hoooooooo");
+			 // System.out.println("Hoooooooo");
 			t.test1();
 			t.test2();
 			t.test3();
