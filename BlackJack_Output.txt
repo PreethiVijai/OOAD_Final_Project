@@ -1,0 +1,16 @@
+Hoooooooo
+*****************************************
+Play a new game. Place your bet now!
+*****************************************
+Database connection established
+DataBase table accessed
+*****************************************
+Bet Amount: 50.
+Increase your current balance by  50 by winning. Your balance will reduce by 50 if you lose.
+*****************************************
+Dealer is busted. Player won because of BlackJack.. Inserting it into database
+*****************************************
+Play a new game. Place your bet now!
+*****************************************
+Database connection established
+DataBase table accessed
